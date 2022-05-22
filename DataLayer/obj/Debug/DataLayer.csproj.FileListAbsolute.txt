@@ -1,0 +1,24 @@
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Debug\DataLayer.pdb

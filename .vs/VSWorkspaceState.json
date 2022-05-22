@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarCollectionWithDB",
+    "\\CarCollectionWithDB\\Controllers",
+    "\\CarCollectionWithDB\\Views",
+    "\\CarCollectionWithDB\\Views\\Home",
+    "\\DataLayer"
+  ],
+  "SelectedNode": "\\CarCollectionWithDB\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

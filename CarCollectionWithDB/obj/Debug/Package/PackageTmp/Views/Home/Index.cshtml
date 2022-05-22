@@ -1,0 +1,77 @@
+﻿@model IEnumerable<CarCollectionWithDB.Models.CarModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Car Collection</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateCar")
+</p>
+<table class="table">
+    <tr>
+        @*<th>
+            @Html.DisplayNameFor(model => model.CarId)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.CarMkModel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Engine)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BodyType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Transmission)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Year)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Value)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.CarId)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.CarMkModel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Engine)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BodyType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Transmission)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Year)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Color)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Value)
+        </td>
+        <td>
+            @Html.ActionLink("Update", "UpdateCar", new { id = item.CarId }, new { @class = "btn btn-primary btn-sm" }) 
+            @Html.ActionLink("Details", "Details", new { id = item.CarId }, new { @class = "btn btn-primary btn-sm" }) 
+            @Html.ActionLink("Delete", "Delete", new { id = item.CarId }, new { @class = "btn btn-primary btn-sm" })
+        </td>
+    </tr>
+    
+}
+
+</table>
+<h3>Example entry: Mazda 6, 1.9L, sedan, 6 speed manual, 2018, Red, 22500  <br />Add new entry or modify existing one.</h3>

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/carcollectionwithdbdbserver01/databases/CarCollectionWithDB_dbNew",
+      "type": "mssql.azure",
+      "connectionId": "CarCollectionEntities",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+﻿@model CarCollectionWithDB.Models.CarModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Car Model</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        @*<dt>
+                @Html.DisplayNameFor(model => model.CarId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.CarId)
+            </dd>*@
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CarMkModel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CarMkModel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Engine)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Engine)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BodyType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BodyType)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Transmission)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Transmission)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Year)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Color)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Color)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Value)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Value)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm("Delete", "Home", FormMethod.Post, null))
+    {
+        @Html.AntiForgeryToken()
+        @Html.HiddenFor(x => x.CarId) //VERY IMPORTANT PART // OBJECT IS NOT PASSED WITHOUT IT!!!
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index", new { @class = "btn btn-primary btn-sm" })
+        </div>
+    }
+</div>

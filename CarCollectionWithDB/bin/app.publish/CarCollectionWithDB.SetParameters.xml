@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="agprogramming-001-site1" />
+  <setParameter name="CarCollectionEntities-Web.config Connection String" value="metadata=res://*/CarModel.csdl|res://*/CarModel.ssdl|res://*/CarModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.\SQLEXPRESS;initial catalog=CarCollection;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>

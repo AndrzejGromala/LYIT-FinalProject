@@ -1,0 +1,36 @@
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.dll.config
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.xml
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csprojAssemblyReference.cache
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.CopyComplete
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Andrzej\source\repos\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.pdb
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.dll.config
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.dll
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.xml
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.CopyComplete
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Andrzej\Desktop\TestingProjectForCollege\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.pdb
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.dll.config
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.xml
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.csproj.CopyComplete
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Andrzej\Desktop\Copy-TestingProjectForCollege - Copy\CarCollectionWithDB\DataLayer\obj\Release\DataLayer.pdb
